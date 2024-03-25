@@ -8,7 +8,7 @@ Set - 순서가 없고, 멤버가 유일한 컬렉션
 var integers: Array<Int> = Arrray<Int>()
 integers.append(1)
 integers.append(100)
-integers.append(100.1)
+// integers.append(100.1)
 
 integers.countains(100)
 // 100이라는 멤버를 가지고 있는지 확인
@@ -71,7 +71,7 @@ let union: Set<Int> = setA.union(setB)
 // {2, 4, 5, 6, 7, 3, 1}
 let sortedUnion: [Int] = union.sorted()
 // {1, 2, 3, 4, 5, 6, 7}
-let intersection: Set<Int> = setA.intersection(setB)
+let intersections: Set<Int> = setA.intersection(setB)
 // 교집합 {5, 3, 4}
-let subtracting: Set<Int> = setA.subtracting(setB)
+let subtractings: Set<Int> = setA.subtracting(setB)
 // 차집합 {2, 1}
