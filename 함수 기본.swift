@@ -46,14 +46,14 @@ func maximumIntegerValue() -> Int {
 //     return 
 // }
 
-func hello() -> void {print("hello")}
+func hello() -> Void {print("hello")}
 
 // fuc 함수이름() {
 //     함수 구현부
 //     return
 // }
 
-func bye() {print("bye")}
+func bye() {print("bye")
 
 sum(a: 3, b: 5) // 8
 printMyName(name: "yagom") // yagom
