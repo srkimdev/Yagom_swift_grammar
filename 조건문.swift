@@ -9,7 +9,7 @@ let someInteger = 100
 //     statements
 // } else if condition {
 //     statements
-// } eles {
+// } else {
 //     statements
 // }
 
