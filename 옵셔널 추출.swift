@@ -13,6 +13,8 @@ func printName(name: String) {
 var myName: String? = nil
 // printName(myName) -> 오류 발생
 
+var myName: String! = nil
+
 if let name: String = myName {
     printName(name)
 } else {
