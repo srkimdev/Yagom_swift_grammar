@@ -2,9 +2,9 @@ import Swift
 
 // 클래스
 
-class 이름 {
-    구현부
-}
+// class 이름 {
+//     구현부
+// }
 
 class Sample {
     // 가변 프로퍼티(변수)
