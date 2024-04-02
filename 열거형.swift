@@ -5,12 +5,12 @@ import Swift
 // 각 case는 소문자 카멜케이스로 정의한다
 // 각 case는 그 자체가 고유의 값이다
 
-enum 이름 {
-    case 이름1
-    case 이름2
-    case 이름3, 이름4, 이름5
-    ...
-}
+// enum 이름 {
+//     case 이름1
+//     case 이름2
+//     case 이름3, 이름4, 이름5
+//     ...
+// }
 
 enum Weekday {
     case mon
